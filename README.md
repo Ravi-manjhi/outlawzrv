@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=996)]
+![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=996)
 <h1 align="center">Hi 👋, I'm Ravi Manjhi</h1>
 <h3 align="center">A Passionate Data Scientist | Web Developer from India</h3>
 
